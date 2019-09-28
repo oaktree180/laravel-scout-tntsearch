@@ -1,5 +1,5 @@
 {
-    "name": "vanry/laravel-scout-tntsearch",
+    "name": "oaktree180/oaktree-tntsearch",
     "description": "包含中文分词的 Laravel Scout TNTSearch 驱动，支持 scws, phpanalysis 和 jieba 分词。",
     "type": "library",
     "license": "MIT",
@@ -12,8 +12,8 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.6.4",
-        "laravel/scout": "^3.0|^4.0",
-        "teamtnt/tntsearch": "~1.0",
+        "laravel/scout": "^7.0",
+        "teamtnt/tntsearch": "~2.1.0",
         "illuminate/support": "~5.4",
         "illuminate/database": "~5.4"
     },
